@@ -32,7 +32,7 @@ To set up the eNotes Management Application, follow these steps:
 
 1. **Clone the Repository**: Clone the project repository to your local machine.
    ```sh
-   git clone https://github.com/raviteja-08/eNotes-java.git
+   git clone https://github.com/CharanTej11/Enotes
 2. **SETUP DATABASE**: create database and tables.
    ```sh
    CREATE DATABASE eNotes;
